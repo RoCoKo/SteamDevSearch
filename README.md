@@ -40,4 +40,4 @@ Python (Standard Library)
 
 # Contributing
 
-If you'd like to contribute to this project, please follow the contribution guidelines.
+If you would like to contribute to this project, please feel free to do so.
